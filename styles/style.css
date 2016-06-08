@@ -8,15 +8,15 @@
 }
 #grid{
     border: 2px solid black;
-    width:  1020px;
-    height: 1020px;
+    width:  120px;
+    height: 125px;
 }
 .block
 {
-    border: 1px solid black;
+    
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 1px;
+    height: 1px;
 }
 .altered-block
 {
